@@ -16,6 +16,6 @@ An interactive Excel dashboard visualizing 5+ KPIs for an e-commerce dataset of 
 
 ##  Tools Used:
 - Microsoft Excel (Pivot Tables, Formulas, Macros)
-- SQL (PostgreSQL / MySQL / SQLite — mention whichever you used)
+- MySQL(MS SQL server Management)
 
 
