@@ -1,4 +1,4 @@
-# Sales Analytics Dashboard (Excel + SQL)
+# Sales Performance Dashboard (Excel + SQL)
 
 An interactive Excel dashboard visualizing 5+ KPIs for an e-commerce dataset of 4,000+ orders. Combined with SQL for data extraction and analysis.
 
